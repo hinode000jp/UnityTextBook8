@@ -2,6 +2,6 @@
 
 * [Introduction](README.md)
 
-* [アプリケーションに音を追加してみる](./page1.md)
+* [Unityの軽量化について](./page1.md)
 
 <!-- * [VRメニューの作成](./page2.md) -->
